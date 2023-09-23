@@ -1,7 +1,5 @@
 //is truthy
 
-
-
 // let value = true;
 
 // if (value==true){
@@ -28,7 +26,8 @@
 //  }
  
 
-// Number Line ??????????????????
+// Number Line 
+//??????????????????
 // let num1 = 99
 // let num2 = -2
 
@@ -43,12 +42,11 @@
 // }
 
 
-
-
-
-
-
 // Greater Than 5
+//set two variables
+//if both are greater than or equal to 5, print true
+// if not, print false
+
 
 // let a = 5
 // let b = 5
