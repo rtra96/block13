@@ -59,20 +59,23 @@
 //     console.log ("false")
 // }
 
+
+
+
 //Pair and Compare 
 //set four parameters (1a 1b 2a 2b)
 // if 1a & 1b is true OR if 2a & 2b are true..
 // console log true..
 // if not, console log false
 
-let param1a = "cake";
-let param1b = "cake";
-let param2a = "pie" ;
-let param2b = "pie";
+// let param1a = "cake";
+// let param1b = "cake";
+// let param2a = "pie" ;
+// let param2b = "pie";
 
-if (param1a === param1b || param2a === param2b ) {
-    console.log ("true");
-}
-else {
-    console.log ("false");
-}
+// if (param1a === param1b || param2a === param2b ) {
+//     console.log ("true");
+// }
+// else {
+//     console.log ("false");
+// }
