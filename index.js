@@ -28,19 +28,19 @@
 //  }
  
 
-// Number Line
-let num1 = 99
-let num2 = -2
+// Number Line ??????????????????
+// let num1 = 99
+// let num2 = -2
 
-if (num1 + num2 > 100) {
-    console.log (num1 + num2);
-    console.log( "is greater than 100");
+// if (num1 + num2 >= 101) {
+//     console.log (num1 + num2);
+//     console.log( "is greater than 100");
    
-}
-if (num1 + num2 > 0) {
-    console.log (num1+ num2);
-    console.log  (" is greater than 0")
-}
+// }
+// if (num1 + num2 === 0-100 ) {
+//     console.log (num1+ num2);
+//     console.log  (" is greater than 0")
+// }
 
 
 
@@ -59,3 +59,20 @@ if (num1 + num2 > 0) {
 //     console.log ("false")
 // }
 
+//Pair and Compare 
+//set four parameters (1a 1b 2a 2b)
+// if 1a & 1b is true OR if 2a & 2b are true..
+// console log true..
+// if not, console log false
+
+let param1a = "cake";
+let param1b = "cake";
+let param2a = "pie" ;
+let param2b = "pie";
+
+if (param1a === param1b || param2a === param2b ) {
+    console.log ("true");
+}
+else {
+    console.log ("false");
+}
